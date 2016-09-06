@@ -117,8 +117,10 @@ suitcase
 sunglasses
 thermometer
 thread
+tactics
 tire
 tissuebox
+trout
 tobacco
 toothpaste
 toothpick
